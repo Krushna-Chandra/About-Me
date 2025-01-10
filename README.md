@@ -33,7 +33,7 @@ krushnachandrabindhani952@gmail.com
 <h2 align="left">⚒️ Languages-Frameworks-Tools : </h2>
 <br/>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+<img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /><br>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,c,mysql" /><br>
 </div>
 
